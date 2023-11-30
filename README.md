@@ -30,7 +30,7 @@
       <a href="https://www.google.com/search?q=ACM-Anik#ip=1">「 Google Me 」</a>
       <br>
       -->
-      「 I am a full stack web application developer from <b>Bangladesh</b> 」
+      「 I am a MERN stack web application developer from <b>Bangladesh</b> 」
       <br>
       <br>
     </samp>
@@ -65,7 +65,7 @@
     <!--
       <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> 
    -->
-     <img align="right" width="350" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" alt="Coding gif" />
+     <!-- <img align="right" width="350" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" alt="Coding gif" /> -->
     
    ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
    ❤️ &emsp; Love to writing code and learning new features<br/><br/>
@@ -129,13 +129,13 @@
   
   <p align="center">
     <a href="https://github.com/ACM-Anik">
-      <img src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ACM-Anik&theme=github)" alt="Anik's GitHub Contribution"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ACM-Anik&theme=github" alt="Anik's GitHub Contribution"/>
     </a>
   </p>
   
   <a> 
       <a href="https://github.com/ACM-Anik">
-        <img alt="Anik's Github Stats" src="![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ACM-Anik&theme=github)" height="192px" width="49.5%"/>
+        <img alt="Anik's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ACM-Anik&theme=github" height="192px" width="49.5%"/>
       </a>
     <a href="https://github.com/ACM-Anik">
         <img alt="Anik's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ACM-Anik&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
@@ -144,4 +144,4 @@
   </a>
   
   
-  ![Anik Chandra mojumder's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ACM-Anik&custom_title=Akas%20Datta's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+  ![Anik Chandra mojumder's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ACM-Anik&custom_title=Anik%20Chandra%20Mojumder's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
