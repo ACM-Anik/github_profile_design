@@ -129,16 +129,16 @@
   
   <p align="center">
     <a href="https://github.com/ACM-Anik">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ACM-Anik&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Anik's GitHub Contribution"/>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ACM-Anik&theme=transparent&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="Anik's GitHub Contribution"/>
     </a>
   </p>
   
   <a> 
       <a href="https://github.com/ACM-Anik">
-        <img alt="Anik's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ACM-Anik&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+        <img alt="Anik's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ACM-Anik&theme=transparent&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
       </a>
     <a href="https://github.com/ACM-Anik">
-        <img alt="Anik's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ACM-Anik&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+        <img alt="Anik's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ACM-Anik&langs_count=8&layout=compact&theme=transparent&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
     </a>
     <br/>
   </a>
