@@ -14,7 +14,9 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=acm-anik&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
   </a>
   
-  [![wakatime](https://wakatime.com/@018b51e8-f359-4e62-b7d1-921f638f7db0)](https://wakatime.com/@018b51e8-f359-4e62-b7d1-921f638f7db0)
+  [![wakatime](https://wakatime.com/@)](https://wakatime.com/)
+
+  <!-- [![Anik's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats) -->
   
   <!-- Intro  -->
   <h3 align="center">
