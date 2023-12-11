@@ -1,6 +1,6 @@
 
 <h2 align="center">
-   Anik's Profile Info!
+   Anik's Github Profile Info!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
@@ -109,7 +109,7 @@
   <br/>
   
   ## Top self projects -
-  [![Summer Camp Client-Side(Dance Revolutions)](https://github-readme-stats.vercel.app/api/pin/?username=ACM-Anik&repo=dance-revolutions-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ACM-Anik/dance-revolutions-client)
+  [![Dance Revolutions Client-side](https://github-readme-stats.vercel.app/api/pin/?username=ACM-Anik&repo=dance-revolutions-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ACM-Anik/dance-revolutions-client)
 
   [![Epic Heros Emporium Client](https://github-readme-stats.vercel.app/api/pin/?username=ACM-Anik&repo=epic-heroes-emporium-client&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ACM-Anik/epic-heroes-emporium-client)
 
